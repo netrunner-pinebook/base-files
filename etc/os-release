@@ -1,11 +1,11 @@
-PRETTY_NAME="Netrunner Core 16.09 (avalon)"
-NAME="Netrunner Core"
-VERSION_ID="16.09"
-VERSION="16.09 (avalon)"
+PRETTY_NAME="Netrunner Desktop 19 (vger)"
+NAME="Netrunner Desktop"
+VERSION_ID="19"
+VERSION="19 (vger)"
 ID=netrunner
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
-VERSION_CODENAME=avalon
-PRETTY_NAME="Netrunner Core 16.09 \"Avalon\""
+VERSION_CODENAME=vger
+PRETTY_NAME="Netrunner Desktop 19 \"V'Ger\""
