@@ -8,4 +8,4 @@ HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=vger
-PRETTY_NAME="Netrunner Desktop 19 - V'Ger"
+PRETTY_NAME="Netrunner 19 - V'Ger"
