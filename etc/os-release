@@ -1,11 +1,11 @@
-PRETTY_NAME="Netrunner Desktop 16.09 (avalon)"
+PRETTY_NAME="Netrunner Desktop 16.12 (baryon)"
 NAME="Netrunner Desktop"
-VERSION_ID="16.09"
-VERSION="16.09 (avalon)"
+VERSION_ID="16.12"
+VERSION="16.12 (baryon)"
 ID=netrunner
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
-VERSION_CODENAME=avalon
-PRETTY_NAME="Netrunner 16.09 - Avalon"
+VERSION_CODENAME=baryon
+PRETTY_NAME="Netrunner 16.12 - Baryon"
