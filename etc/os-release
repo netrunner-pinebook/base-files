@@ -1,6 +1,6 @@
 NAME="Netrunner"
 VERSION_ID="17.10"
-VERSION="17.10 (daedalus)"
+VERSION="17.10 (voyager)"
 ID=netrunner
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
