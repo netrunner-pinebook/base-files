@@ -7,4 +7,4 @@ HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=Idolon
-PRETTY_NAME="Netrunner 18.03 - Paria"
+PRETTY_NAME="Netrunner 18.03 - Idolon"
